@@ -1,0 +1,95 @@
+* {
+    margin: o;
+    font-family: Arial, Helvetica, sans-serif;
+    border: border-box;
+}
+
+
+/* navbar-logo css */
+
+.navbar-logo {
+    display: flex;
+    justify-content: center;
+    height: 75px;
+   
+}
+
+.logo {
+    background-image: url("amazon_logo1.webp");
+    background-size: cover;
+    width: 140px;
+    height: 50px;
+}
+
+/* login page main content */
+
+.form-cantainer {
+    display: flex;
+    justify-content: center;
+    height: 300px;
+   
+}
+
+.form-box {
+    border: 0.5px solid black;
+    width: 350px;
+    height: 300px;
+    border-radius: 10px;
+
+}
+
+.box-item {
+    margin-left: 26px;
+}
+
+.head-text {
+    font-size: 1.7rem;
+    font-weight: 500;
+}
+
+
+.input-box {
+    
+    font-size: 1.5rem;
+    border-radius: 5px;
+
+}
+
+.submit-btn {
+    font-size:0.94rem ;
+    width: 20em;  
+    height: 2em;
+    border-radius: 5px;
+    background: #F7CA00;
+    border-color: #F2C200;
+    border: none;
+    
+
+}
+
+.box-item label {
+    font-size: 0.80rem;
+    font-weight: 400;
+    margin-bottom: 4px;
+   
+} 
+
+.box-item p {
+    font-size: 0.80rem;
+
+}
+
+.select-item {
+    margin-top: 18px 0 0;
+    font-size: 0.80rem;
+    border: none;
+    color: #0066c0;
+}
+
+.text-msg a {
+    color: #0066c0;
+
+}
+
+
+/* other button  */
